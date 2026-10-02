@@ -1,0 +1,10 @@
+{
+  "purpose": "Tinitiate Agent Core curated skill/tool pack",
+  "sources": [
+    "Official Remotion Agent Skills: https://github.com/remotion-dev/skills",
+    "Official Remotion skill documentation: https://github.com/remotion-dev/remotion/tree/main/packages/skills",
+    "LobeHub promo-video skill: https://lobehub.com/en/skills/buildatscale-tv-claude-code-plugins-promo-video",
+    "LobeHub Remotion MCP listing: https://lobehub.com/mcp/chrishayuk-chuk-mcp-remotion"
+  ],
+  "note": "Files are newly authored project-specific adaptations, not verbatim copies of third-party skill files."
+}
